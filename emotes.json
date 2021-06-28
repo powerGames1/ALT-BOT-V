@@ -1,0 +1,49 @@
+{
+
+    "general": { 
+        "yes": "<:yes:845285875466371073>",
+        "no": "<:no:845285837259931697>",
+        "warning": "<:Warning:845283468715491348>",
+        "warning2": "<a:WarningRed:849102635382079580>",
+        "on": "<:On:849399957474771015>",
+        "off": "<:Off:845266623120408596>",
+        "doc": "<:doc:845281719694262292>",
+        "parametres": "<:Parametres:845266635958648843>",
+        "members": "<:members:845282697441050644>",
+        "moderation": "<a:emoji_6:845266644640858122>",
+        "administration": "<:administration:845324441898582016>",
+        "server": "<:server:845283397920489542>",
+        "github": "<:github:845325036931645460>",
+        "developper": "<:Developper:845284029237821490>",
+        "folder": "<:folder:845284293159944262>",
+        "home": "<:home:845283367183843438>",
+        "channel": "<:channel:845282562216558642>",
+        "lockedchannel": "<:SalonLock:845266609408442438>",
+        "description": "<:description:845634873024315412>"
+    },
+         "voice": { 
+         "unmuted": "<:unmuted:845282672145072169>",
+         "muted": "<:muted:845319352152490055>",
+         "undeafened": "<:undeafened:845282599085015100>",
+         "deafened": "<:deafened:845282549147893860>",
+          "voice": "<:voice:845282579048824872>"
+    },
+        "state": { 
+        "online": "<:online:845266651196555294>",
+        "dnd": "<:dnd:845281727735136286>",
+        "idle": "<:idle:845281728729055242>",
+        "offline": "<:offline:845281721855246366>"
+},
+    "fun": { 
+    "gun": "<a:gun:849622407533821972>",
+    "coin": "<a:coin:845266622120722442>",
+    "boost": "<a:Boost:845281742809858048>",
+    "bot": "<a:gun1:845266667310284820>",
+    "crache": "<a:cracher:845281733313560586>"
+ }
+}
+
+
+
+
+
